@@ -296,8 +296,6 @@ class Model extends Object
     
     protected function fetchFilters()
     {
-        $this->filters = array();
-        
         return $this->filters;
     }
     
